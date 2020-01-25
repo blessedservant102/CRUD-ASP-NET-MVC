@@ -1,0 +1,164 @@
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\VBCSCompiler.exe
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\ApplicationInsights.config
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\csc.exe
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\vbc.exe
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\CRUD_MVC.dll.config
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\CRUD_MVC.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\CRUD_MVC.pdb
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Antlr3.Runtime.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.SqlServer.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.DependencyCollector.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.Web.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.WindowsServer.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.ApplicationInsights.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Google.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Newtonsoft.Json.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Owin.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Helpers.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Mvc.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Optimization.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Razor.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Deployment.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Razor.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\WebGrease.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.DependencyCollector.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.Web.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.WindowsServer.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.ApplicationInsights.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Helpers.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Mvc.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Optimization.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Razor.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Deployment.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Razor.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Antlr3.Runtime.pdb
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Newtonsoft.Json.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.SqlServer.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Google.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\obj\Debug\CRUD_MVC.dll
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\obj\Debug\CRUD_MVC.pdb
+E:\Bob Files\Project\LemonTech\Task\MVC_CRUD\CRUD_MVC\CRUD_MVC\obj\Debug\CRUD_MVC.csprojResolveAssemblyReference.cache
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\ApplicationInsights.config
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\csc.exe
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\vbc.exe
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\VBCSCompiler.exe
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\CRUD_MVC.dll.config
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\CRUD_MVC.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\CRUD_MVC.pdb
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Antlr3.Runtime.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.SqlServer.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.Web.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.ApplicationInsights.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Google.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Newtonsoft.Json.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Owin.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Helpers.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Mvc.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Optimization.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Razor.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Deployment.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Razor.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\WebGrease.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.Web.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.ApplicationInsights.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Helpers.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Mvc.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Optimization.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.Razor.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Deployment.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\System.Web.WebPages.Razor.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Antlr3.Runtime.pdb
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Newtonsoft.Json.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\EntityFramework.SqlServer.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Google.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\obj\Debug\CRUD_MVC.csprojResolveAssemblyReference.cache
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\obj\Debug\CRUD_MVC.dll
+D:\Test\MVC_CRUD\CRUD_MVC\CRUD_MVC\obj\Debug\CRUD_MVC.pdb
